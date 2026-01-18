@@ -1,0 +1,18 @@
+# uLesson Landing Page - Project Rules
+
+## Core Instruction
+This project MUST strictly adhere to the Global Workspace Rules. Before making any changes, reference the following master files:
+
+- [Global Rules (Architecture)](file:///Users/2017pro/.antigravity/global_rules.md)
+- [Custom Rules (Design Standards)](file:///Users/2017pro/.antigravity/custom_rules.md)
+- [Component Checklist](file:///Users/2017pro/.antigravity/component_checklist.md)
+
+## Project Specific Alignment
+1. **Archetype**: Consumable Content (SaaS Landing Page).
+2. **Mobile Strategy**: Stack & Overlay.
+3. **Design Intensity**: L2 (Brand - Polished Motion & Premium Craft).
+
+## Immediate Directives
+- Use the **4px Spacing Scale** defined in global_rules.md.
+- Ensure all animations use **GPU-Composited properties** (transform, opacity).
+- Implement the **Independent Drawer** pattern for mobile navigation.
